@@ -40,11 +40,5 @@ jobs:
       uses: actions/upload-artifact@v4.3.3
       with:
           name: aseprite
-          path: build\bin\aseprite.exe
-    - name: Upload data folder
-      uses: actions/upload-artifact@v4.3.3
-      with:
-          name: data
-          path: build\bin\data
-          
+          path: build\
      
