@@ -1,9 +1,13 @@
 # Aseprite - Builds by Turbomaster95
 
-[![build](https://github.com/aseprite/aseprite/actions/workflows/build.yml/badge.svg)](https://github.com/aseprite/aseprite/actions/workflows/build.yml)
-[![Translation Status](https://hosted.weblate.org/widget/aseprite/aseprite/svg-badge.svg)](https://hosted.weblate.org/engage/aseprite/)
-[![Discourse Community](https://img.shields.io/badge/discourse-community-brightgreen.svg?style=flat)](https://community.aseprite.org/)
-[![Discord Server](https://discordapp.com/api/guilds/324979738533822464/embed.png)](https://discord.gg/Yb2CeX8)
+[![build](https://github.com/turbomaster95/aseprite-builds/actions/workflows/build.yml/badge.svg)](https://github.com/turbomaster95/aseprite-builds/actions/workflows/build.yml)
+
+## INFO
+This repository is just builds of Aseprite compiled from source for Windows. I highly recomend buying the full version from [their website](https://www.aseprite.org/#buy) to support the developers.</br>
+Please download the binaries only if you cannot afford the full version.</br>
+(Linux and MacOS builds coming soon.)
+
+
 
 ## Introduction
 
@@ -25,6 +29,7 @@
 * [Reopen closed files](https://twitter.com/aseprite/status/1202641475256881153) and [recover data](https://www.aseprite.org/docs/data-recovery/) in case of crash.
 * Undo/Redo for every operation and support for [non-linear undo](https://imgur.com/9I42fZK).
 * [More features &amp; tips](https://twitter.com/aseprite/status/1124442198651678720)
+
 
 ## Issues
 
